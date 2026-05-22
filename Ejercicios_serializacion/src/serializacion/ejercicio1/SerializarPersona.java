@@ -1,4 +1,4 @@
-package serializacion.Ejercicio1;
+package serializacion.ejercicio1;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -20,7 +20,7 @@ public class SerializarPersona {
 
         try {
 
-            ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("src/serializacion/clase_prueba.ser"));
+            ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("src/serializacion/ejercicio1/clase_prueba.ser"));
 
             out.writeObject(personas);
 

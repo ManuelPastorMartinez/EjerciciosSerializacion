@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70a10533-bba9-45ff-995c-741503458084" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serializacion/Ejercicio1/DeserializarPersona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serializacion/Ejercicio1/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serializacion/Ejercicio1/SerializarPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serializacion/ejercicio2/DeserializarPersonaTransient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serializacion/ejercicio2/PersonaTransient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serializacion/ejercicio2/SerializarPersonaTansient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serializacion/ejercicio3/DeserializarPersonaEjercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serializacion/ejercicio3/PersonaEjercicio3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_serializacion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_serializacion.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serializacion/Ejercicio1/DeserializarPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/serializacion/ejercicio1/DeserializarPersona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serializacion/Ejercicio1/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/serializacion/ejercicio1/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serializacion/Ejercicio1/SerializarPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/serializacion/ejercicio1/SerializarPersona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serializacion/Ejercicio1/clase_prueba.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/serializacion/ejercicio1/clase_prueba.ser" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DeserializarPersona.executor": "Run",
+    "Application.DeserializarPersonaTransient.executor": "Run",
     "Application.SerializarPersona.executor": "Run",
+    "Application.SerializarPersonaTansient.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
@@ -55,6 +60,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/manue/Documents/EjerciciosSerializacion/Ejercicios_serializacion/src/serializacion/ejercicio2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,6 +70,17 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\manue\Documents\EjerciciosSerializacion\Ejercicios_serializacion\src\serializacion\ejercicio2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\manue\Documents\EjerciciosSerializacion\Ejercicios_serializacion\src\serializacion\Ejercicio1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="serializacion.ejercicio2" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="70a10533-bba9-45ff-995c-741503458084" name="Changes" comment="" />

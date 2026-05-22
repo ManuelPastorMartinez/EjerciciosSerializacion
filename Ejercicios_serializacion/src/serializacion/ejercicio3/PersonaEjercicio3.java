@@ -1,15 +1,12 @@
-package serializacion.Ejercicio1;
-
-import lombok.Getter;
+package serializacion.ejercicio3;
 
 import java.io.Serializable;
 
-@Getter
-public class Persona implements Serializable {
+public class PersonaEjercicio3 implements Serializable {
     private String nombre;
     private int edad;
 
-    public Persona(String nombre, int edad) {
+    public PersonaEjercicio3(String nombre, int edad) {
         this.nombre = nombre;
         this.edad = edad;
     }
