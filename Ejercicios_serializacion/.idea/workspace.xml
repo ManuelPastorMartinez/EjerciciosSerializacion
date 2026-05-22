@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70a10533-bba9-45ff-995c-741503458084" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/serializacion/ejercicio2/DeserializarPersonaTransient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serializacion/ejercicio2/PersonaTransient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serializacion/ejercicio2/SerializarPersonaTansient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serializacion/ejercicio3/DeserializarPersonaEjercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serializacion/ejercicio3/PersonaEjercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serializacion/Ejercicio1/DeserializarPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/serializacion/ejercicio1/DeserializarPersona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serializacion/Ejercicio1/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/serializacion/ejercicio1/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serializacion/Ejercicio1/SerializarPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/serializacion/ejercicio1/SerializarPersona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serializacion/Ejercicio1/clase_prueba.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/serializacion/ejercicio1/clase_prueba.ser" afterDir="false" />
-    </list>
+    <list default="true" id="70a10533-bba9-45ff-995c-741503458084" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
